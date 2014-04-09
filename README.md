@@ -4,11 +4,18 @@ node-elastic-watch
 #install
 npm install
 
-#run
+#configure
 create and condifgure config.json
+example:
+```
+{ "accessKeyId": "XXXX", "secretAccessKey": "XXXX", "region": "us-east-1" }
+```
+Edit EnvironmentName in line 14, file app.coffee
 
-then
 
+#run
+
+exec
 ```
 coffee app.coffee
 ```
