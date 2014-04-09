@@ -1,0 +1,11 @@
+{
+	"name": "mdstrm-cloud",
+	"version": "0.0.1",
+	"description": "",
+	"keywords": ["amazon", "cloudwatch", "client", "node"],
+	"author": "@csepulveda",
+	"dependencies": {
+		"aws-sdk": "",
+		"moment": ""
+	}
+}
