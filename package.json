@@ -6,6 +6,7 @@
 	"author": "@csepulveda",
 	"dependencies": {
 		"aws-sdk": "",
-		"moment": ""
+		"moment": "",
+		"mongoose": ""
 	}
 }
